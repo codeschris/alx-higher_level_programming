@@ -10,4 +10,4 @@ if __name__ == '__main__':
             result += int(arg)
         else:
             i += 1
-    print("{:d}".format(result))
+    print(result)
